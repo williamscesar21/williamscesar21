@@ -1,5 +1,5 @@
-### Hi there 👋
 
 <div align="center">
-  <img src="https://imgur.com/a/t4byO2u" alt="Card header"/>
+  <img src="https://i.imgur.com/rKjIA0U.png?2" alt="Title"/>
 </div>
+
